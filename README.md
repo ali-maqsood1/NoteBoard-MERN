@@ -35,6 +35,16 @@ NoteBoard is a full-stack note-taking application built using the MERN stack (Mo
 
 ---
 
+## ScreenShots
+*CreateNote page
+<img width="1440" height="753" alt="Screenshot 2025-07-23 at 5 28 42 PM" src="https://github.com/user-attachments/assets/f579e5c3-36cc-4bdd-9591-d239fbfb4440" />
+
+*Home Page
+<img width="1440" height="754" alt="Screenshot 2025-07-23 at 5 31 40 PM" src="https://github.com/user-attachments/assets/944f7ec6-7c33-426e-a225-22d073c61dd0" />
+
+
+
+
 ## 📆 Project Structure
 
 ```
